@@ -1,0 +1,29 @@
+{
+  "name": "gulp_template",
+  "version": "1.0.0",
+  "description": "Standard gulp templat for development",
+  "main": "index.js",
+  "scripts": {
+    "test": "eslint ."
+  },
+  "author": "Nick Laux",
+  "license": "ISC",
+  "devDependencies": {
+    "browsersync": "0.0.1-security",
+    "del": "^3.0.0",
+    "eslint": "^4.10.0",
+    "eslint-plugin-angular": "^3.1.1",
+    "gulp": "^3.9.1",
+    "gulp-minify-css": "^1.2.4",
+    "gulp-newer": "^1.3.0",
+    "gulp-sass": "^3.1.0",
+    "gulp-scss": "^1.4.0",
+    "gulp-uglify": "^3.0.0",
+    "path": "^0.12.7"
+  },
+  "dependencies": {
+    "bootstrap": "^3.3.7",
+    "browser-sync": "^2.18.13",
+    "jquery": "^3.2.1"
+  }
+}
