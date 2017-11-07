@@ -21,7 +21,7 @@ Gulp template to serve a base for future projects. Includes the following plugin
  <ol>
   <li>Install Node first with -g flag in target directory (if not already installed)</li>
   <li>Run Npm install in target directory</li>
-  <li>Create src/dist directory structure (ex. src > app / assets > css/img/js)</li>
+  <li>Unzip directories.rar or Create src/dist directory structure (ex. folder-structure.jpg)</li>
   <li>May need to then install Gulp, Eslint, Eslint-plugin-angular with the -g flag to avoid path issues</li>
  </ol>
  
